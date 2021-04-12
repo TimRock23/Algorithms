@@ -2,4 +2,8 @@
 
 ## Typical tasks from interview
 
-[Part 1](/typical_tasks_from_interview/part1/README.md)
+[README](/typical_tasks_from_interview/README.md)
+
+## Basic data structures
+
+[README](/basic_data_structures/README.md)
