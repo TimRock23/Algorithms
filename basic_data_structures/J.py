@@ -38,7 +38,6 @@ def max_size(commands):
             print(stack.get_max())
 
 
-max_size()
 if __name__ == '__main__':
     stack = StackMaxEffective()
     count = int(input())
@@ -46,4 +45,4 @@ if __name__ == '__main__':
     for i in range(count):
         command = input().split(' ')
         commands.append(command)
-    j(commands)
+    max_size(commands)

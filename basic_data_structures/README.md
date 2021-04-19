@@ -1,4 +1,4 @@
-## Typical tasks from interview. Part 2
+## Basic data structures
 <details>
 <summary>A. Кружки</summary>
 
