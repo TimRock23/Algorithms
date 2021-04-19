@@ -1,3 +1,4 @@
+## Greedy algorithms
 <details>
 <summary>A. Расписание</summary>
 

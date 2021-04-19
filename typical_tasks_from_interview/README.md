@@ -1,4 +1,4 @@
-## Typical tasks from interview. Part 1
+## Typical tasks from interview
 <details>
 <summary>A. Значения функции</summary>
 

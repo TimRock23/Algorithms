@@ -208,9 +208,9 @@
 </details>
 
 <details>
-<summary>Большое число</summary>
+<summary>Radix sort</summary>
 
-[Решение](big_number.py)
+[Решение](radix_sort.py)
 
 ### Ограничение времени
 0.6 секунд

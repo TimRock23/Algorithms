@@ -6,7 +6,7 @@ def d(max_value, values):
             max_value -= value[1]
             in_backpack.append(value[2])
     result = sorted(in_backpack)
-    print(*result)
+    return result
 
 
 if __name__ == '__main__':
@@ -18,4 +18,4 @@ if __name__ == '__main__':
         value.append(i)
         value = list(map(int, value))
         values.append(value)
-    d(max_value, values)
+    print(*d(max_value, values))

@@ -14,11 +14,11 @@
 
 ## Recursion
 
-[]()
+[README](/recursion/README.md)
 
 ## Sorting
 
-[]()
+[README](/sorting/README.md)
 
 ## Final tasks
 
